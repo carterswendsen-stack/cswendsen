@@ -1,2 +1,2 @@
-# Carter-Swendsen-Final-Project
+# cswendsen
 My final IS 201 project. 
